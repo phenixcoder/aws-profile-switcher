@@ -4,7 +4,7 @@ Switch AWS profile credential to default and run your aws cli commnadsin differe
 
 ## Instalation
 
-`npm install -g aws-profile-switcher`
+`npm install -g aws-credential-switch`
 
 ## Run
 
