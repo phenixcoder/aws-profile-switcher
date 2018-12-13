@@ -1,0 +1,29 @@
+{
+  "name": "aws-profile-switcher",
+  "version": "1.0.0",
+  "description": "switches aws profiles and manages aws profiles",
+  "main": "index.js",
+  "bin": {
+    "aws-profile-switcher": "./index.js",
+    "aws-profile-switch": "./index.js",
+    "aps": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pheonixcoder/aws-profile-switcher.git"
+  },
+  "keywords": [
+    "aws",
+    "nodejs",
+    "cli"
+  ],
+  "author": "Balwant Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pheonixcoder/aws-profile-switcher/issues"
+  },
+  "homepage": "https://github.com/pheonixcoder/aws-profile-switcher#readme"
+}
