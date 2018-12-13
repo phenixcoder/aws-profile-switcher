@@ -1,5 +1,5 @@
 {
-  "name": "aws-profile-switcher",
+  "name": "aws-profile-switch",
   "version": "1.0.0",
   "description": "switches aws profiles and manages aws profiles",
   "main": "index.js",
