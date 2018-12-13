@@ -1,6 +1,6 @@
 {
   "name": "aws-credential-switch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "switches aws profiles and manages aws profiles",
   "main": "index.js",
   "bin": {
